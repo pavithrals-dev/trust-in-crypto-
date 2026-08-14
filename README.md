@@ -1,9 +1,8 @@
-# 🧠 RaaS — Reputation-as-a-Service (ETHOnline 2025)
 
-RaaS is a composable Reputation-as-a-Service protocol built for ETHOnline 2025.  
+
+Trust  is a composable Reputation-as-a-Service protocol built for ETHOnline 2025.  
 It verifies completed freelance work, manages multi-rail escrow payouts, and generates on-chain reputation proofs — composable across the Web3 ecosystem.
-
-RaaS integrates PayPal USD (PYUSD) and KIRAPAY as dual payment rails while anchoring every proof of payment and reputation update transparently on-chain via Blockscout.
+Trust  integrates PayPal USD (PYUSD) and KIRAPAY as dual payment rails while anchoring every proof of payment and reputation update transparently on-chain via Blockscout.
 
 ---
 
@@ -121,16 +120,3 @@ Each freelancer’s address can be queried on-chain:
 
 ---
 
-## 🧱 Future Extensions
-
-- Add Sismo-based zkReputation proofs  
-- Enable multi-chain settlement (Base, Scroll, and Optimism)  
-- On-chain KIRAPAY escrow mirroring  
-- DAO-based dispute resolution  
-
----
-
-## 🧑‍💻 Team
-
-Built by Hilmi KT (Mintaro Labs) for ETHOnline 2025 —  
-bridging off-chain reputation with on-chain trust.
