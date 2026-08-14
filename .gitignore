@@ -1,0 +1,41 @@
+# Node + pnpm
+node_modules/
+.pnpm-store/
+.npmrc
+.env
+.env.local
+.env.*.local
+.env.local*
+.env.*.local*
+frontend/app/config/addresses.local.json
+.pnpm-debug.log
+*.tgz
+
+# Hardhat
+# Hardhat
+cache/
+artifacts/
+typechain/
+typechain-types/
+
+# Logs + temp
+*.log
+.DS_Store
+dist/
+coverage/
+coverage.json
+*.tsbuildinfo
+
+# IDEs
+.vscode/
+.idea/
+
+# Frontend build
+frontend/.next/
+out/
+.vercel/
+build/
+
+# Misc
+*.swp
+*.swo
